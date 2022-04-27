@@ -1,0 +1,9 @@
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.csprojResolveAssemblyReference.cache
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.Cache
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\Hossein\Desktop\new\sudoku\sudoku\obj\Debug\sudoku.pdb
