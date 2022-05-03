@@ -1,2 +1,9 @@
-# Assignment14
-![Form1](https://user-images.githubusercontent.com/12674810/165582725-5f662a86-1ac4-462d-8c24-3534b64227c2.jpg) 
+# Assignment15
+رنگ پس‌زمینه مربع‌ها با کد ایجاد شده است:
+##Sudoku_Game Screenshots.
+
+![Form1](https://user-images.githubusercontent.com/12674810/166463720-c0c9436c-5523-435a-a514-5881185e46cb.jpg)
+
+پیغام خطا به کاربر اگر عدد دورقمی و یا صفر وارد کند:
+
+![01](https://user-images.githubusercontent.com/12674810/166463725-319e2841-9bcf-4b9b-a200-364c3b6b4031.jpg)
