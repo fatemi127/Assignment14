@@ -89,13 +89,14 @@
             // 
             this.btn_new_game.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.btn_new_game.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.tableLayoutPanel1.SetColumnSpan(this.btn_new_game, 2);
             this.btn_new_game.Location = new System.Drawing.Point(180, 372);
             this.btn_new_game.Name = "btn_new_game";
             this.btn_new_game.Size = new System.Drawing.Size(112, 38);
             this.btn_new_game.TabIndex = 1;
             this.btn_new_game.Text = "Open";
-            this.btn_new_game.UseVisualStyleBackColor = true;
+            this.btn_new_game.UseVisualStyleBackColor = false;
             this.btn_new_game.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
